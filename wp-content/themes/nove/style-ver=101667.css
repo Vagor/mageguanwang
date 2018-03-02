@@ -1666,7 +1666,7 @@ button {
       padding-bottom: 10vw; }
     .newsListeItem > .lien > div .texteTitre, .newsListeItem > div > div .texteTitre {
       margin-top: -12px;
-      margin-bottom: 12px; } 
+      margin-bottom: 12px; }
     .newsListeItem > .lien > div .texteCourant, .newsListeItem > div > div .texteCourant {
       padding-bottom: 10vw; }
   .newsListeItem + .divider {
@@ -6695,12 +6695,12 @@ p.contactTel {
   color: white; }
 
 
-  nav { 
+  nav {
   	display: none;
   }
 
   .siteReady nav {
-  display: block; 
+  display: block;
   }
 
 /*# sourceMappingURL=style.css.map */
